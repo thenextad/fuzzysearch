@@ -12,4 +12,4 @@ declare namespace fuzzysearch {
  */
 declare function fuzzysearch(needle: string, haystack: string): boolean;
 
-export = fuzzysearch;
+export default fuzzysearch;
